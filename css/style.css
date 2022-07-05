@@ -8,9 +8,10 @@ img{
     width: 100%;
 }
 
-section{
+section {
     display: flex;
     margin-bottom: 150px;
+    align-items: center;
 }
 .half-width{
     width: 40%;
@@ -67,7 +68,7 @@ h2{
 }
 
 footer{
-    background: black;
+    background: #0B0D17;
     color: #fff;
     text-align: center;
     padding:20px;
@@ -77,3 +78,4 @@ footer p{
    
     margin-bottom: 0;
 }
+
