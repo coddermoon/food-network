@@ -10,7 +10,7 @@ img{
 
 section {
     display: flex;
-    margin-bottom: 150px;
+    padding: 20px;
     align-items: center;
 }
 .half-width{
@@ -57,9 +57,18 @@ h2{
   
 }
 
-#recipies{
- 
+#intro{
+    background: url(../images/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+   background-size: cover;
 }
+
+#about {
+    background: url(../images/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 
 .heading{
     display: block;
