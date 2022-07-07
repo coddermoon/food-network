@@ -107,7 +107,14 @@ footer p{
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
+    
+}
+
+.review-box h4 {
+    padding: 2%;
+    text-align: center;
+    color: gray;
 }
 
 .text-center{
